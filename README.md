@@ -8,4 +8,4 @@ En **20 minutes**, vous devez fournir une page des messages stylisée et éventu
 
 ### Note importante
 
-Veuillez ne pas commit directement dans ce répo, pensez à le fork avant de pouvoir y travailler dessus. Pensez aussi à vous chronométrer et de mettre les résultats (temps passé + screenshots) dans le fichier RESULTS.md.
+Veuillez ne pas commit directement dans ce répo, pensez à le fork avant de pouvoir y travailler dessus. Pensez aussi à vous chronométrer et à mettre les résultats (temps passé + screenshots) dans le fichier RESULTS.md.
